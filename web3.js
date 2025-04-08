@@ -1,5 +1,5 @@
 const contractAddress = "0xB4fFE840f19173DFB1cF08F3EcB89E815b095d12"; // Test contract address
-const contractABI = [[
+const contractABI = [
     {
         "inputs": [],
         "stateMutability": "nonpayable",
